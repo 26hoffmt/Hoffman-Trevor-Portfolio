@@ -1,3 +1,4 @@
 Hi, this is my daily journal for my final engineering project.
 9/16 - Today I started drawings for my final project. I drew a cone to collect rain water and a tube that contains sand and silt to filter out large sediment. I also drew them in a way to think about how I connect the two pieces together.
 9/18 - Today I continued drawings for my project. I mainly worked on drawings for my water bottle. The hardest part was making the water fit with the filter. I decided to make it so the filter slides in the water bottle and has a long end to compensate for that.
+9/19 - I started the day by making my daily journal on github. I then began reserach on my water filter but found that it would not be a safe project to do. I then spent the rest of class looking into other possible ideas for projects.
