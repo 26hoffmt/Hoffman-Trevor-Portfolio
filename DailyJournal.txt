@@ -3,3 +3,7 @@ Hi, this is my daily journal for my final engineering project.
 9/18 - Today I continued drawings for my project. I mainly worked on drawings for my water bottle. The hardest part was making the water fit with the filter. I decided to make it so the filter slides in the water bottle and has a long end to compensate for that.
 9/19 - I started the day by making my daily journal on github. I then began reserach on my water filter but found that it would not be a safe project to do. I then spent the rest of class looking into other possible ideas for projects.
 9/24 - Today I came up with the idea for a smart fan. I spent the rest of class looking through tutorials and ideas.
+9/26 - Today we worked on sodering our owls. This exersice is to help us become better at sodering.
+9/29 - Today I continued on my owl project. I finished with the resistors and the capacitors and started with the LEDs
+9/30 - Today I finished with the LEDs and tested the owl, it did not work so I will need to test it again tommorrow.
+10/1 - Today Jaden and I found tutorials for our fan project. I found a fusion tutorial that I really like and we drew out dimensions for the fan and its stand. I also made sure I had a fusion account and signed in.
