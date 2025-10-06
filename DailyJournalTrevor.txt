@@ -7,3 +7,4 @@ Hi, this is my daily journal for my final engineering project.
 9/29 - Today I continued on my owl project. I finished with the resistors and the capacitors and started with the LEDs
 9/30 - Today I finished with the LEDs and tested the owl, it did not work so I will need to test it again tommorrow.
 10/1 - Today Jaden and I found tutorials for our fan project. I found a fusion tutorial that I really like and we drew out dimensions for the fan and its stand. I also made sure I had a fusion account and signed in.
+10/6 - Today Jaden and I continued to plan for our project. We talked over how we are going to get the fan to spin and some of the dimensions. Jaden watched a tutorial on how to get the fan spinning and I started making the fan blade in Fusion 360 using a YouTube tutorial.
