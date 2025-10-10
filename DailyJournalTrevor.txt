@@ -10,5 +10,7 @@ Hi, this is my daily journal for my final engineering project.
 10/6 - Today Jaden and I continued to plan for our project. We talked over how we are going to get the fan to spin and some of the dimensions. Jaden watched a tutorial on how to get the fan spinning and I started making the fan blade in Fusion 360 using a YouTube tutorial.
 10/8 - Today I continued working on my fan design. I also troubleshooted my owl project.
 10/9 - Today I did a practice 3-d print on a project that I made in freshmen engineering. It was good to learn the workflow for printing and how to use bamboo studio.
+10/10 - Today I continued work on my fan blade design in fusion 360. I have made the body of the fan and one of the blades by following my tutorial, but had a lot of trouble rounding our the edges of the blade. I found a solution to my problem but have not yet had time to fix my design.
+
 
 
