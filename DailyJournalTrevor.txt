@@ -11,6 +11,7 @@ Hi, this is my daily journal for my final engineering project.
 10/8 - Today I continued working on my fan design. I also troubleshooted my owl project.
 10/9 - Today I did a practice 3-d print on a project that I made in freshmen engineering. It was good to learn the workflow for printing and how to use bamboo studio.
 10/10 - Today I continued work on my fan blade design in fusion 360. I have made the body of the fan and one of the blades by following my tutorial, but had a lot of trouble rounding our the edges of the blade. I found a solution to my problem but have not yet had time to fix my design.
+10/14 - Today we learned how to create a website that will house our portfolios for all of our projects. I had some issues with figuring out how to make my website show up with my personal information, but the issue was resolved and my website should be good to go.
 
 
 
